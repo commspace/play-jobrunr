@@ -1,0 +1,22 @@
+/dist
+/eclipse
+/lib/
+/public/
+/tmp
+/out
+
+# Ignore these files
+.classpath
+.project
+.idea
+/play-auditlog.iml
+settings/
+
+# OS generated files #
+######################
+.DS_Store
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+/.settings
