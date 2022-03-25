@@ -9,7 +9,7 @@
 .classpath
 .project
 .idea
-.iml
+/play-jobrunr.iml
 settings/
 
 # OS generated files #
