@@ -9,7 +9,7 @@
 .classpath
 .project
 .idea
-/play-auditlog.iml
+.iml
 settings/
 
 # OS generated files #
